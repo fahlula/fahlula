@@ -1,16 +1,44 @@
-## Hi there 👋
+# 😁 Olá! Eu sou a Fabiana
 
-<!--
-**fahlula/fahlula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedora em formação, apaixonada por tecnologia, com foco em construir soluções simples, funcionais e acessíveis. Busco evoluir constantemente aplicando meus estudos em projetos práticos.
 
-Here are some ideas to get you started:
+## 👩‍💻 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-   🎓 Estudante de Análise e Desenvolvimento de Sistemas na Anhanguera
+    
+-   🧠 Interesse por desenvolvimento fullstack, especialmente com React, Node.js e TypeScript
+    
+-   🚀 Explorando ferramentas modernas e boas práticas de código limpo
+    
+-   ✨ Curiosa por IA, automação, jogos e interfaces intuitivas
+    
+
+----------
+
+## 🌱 Tecnologias e Ferramentas
+
+**Linguagens:**  
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css)](https://skillicons.dev/)
+
+**Frameworks e bibliotecas:**  
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,express)](https://skillicons.dev/)
+
+**Banco de Dados e DevOps:**  
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,docker)](https://skillicons.dev/)
+
+**Ferramentas:**  
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,figma)](https://skillicons.dev/)
+
+----------
+
+
+## 📫 Contato
+
+Entre em contato ou acompanhe minha jornada:
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabiana-almeida-dev)  
+[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](fabiana.lula1@gmail.com)
+
+----------
+
+> "Codificando com paixão, projetando com propósito."
