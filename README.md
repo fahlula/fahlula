@@ -30,7 +30,19 @@ Desenvolvedora em formação, apaixonada por tecnologia, com foco em construir s
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,figma)](https://skillicons.dev/)
 
 ----------
+----------
 
+## 🎲 Projeto em destaque: Cubo 3D em Java
+
+Uma visualização interativa de um cubo 3D rotativo, feita com Java puro e Swing.  
+Neste projeto, trabalhei com lógica 3D, projeção em perspectiva e desenho em tempo real com animação.
+
+> ✨ Ideal para demonstrar raciocínio lógico, estrutura de código e domínio de interface gráfica.
+
+[🔗 Ver repositório no GitHub](https://github.com/fahlula/cubo-3d-java)
+
+![cubo-3d-preview](<img width="495" height="416" alt="Captura de tela 2025-07-22 194741" src="https://github.com/user-attachments/assets/aaba4489-25fa-4019-88b0-4c13586beced" />
+)
 
 ## 📫 Contato
 
