@@ -39,9 +39,10 @@ Neste projeto, trabalhei com lógica 3D, projeção em perspectiva e desenho em 
 
 > ✨ Ideal para demonstrar raciocínio lógico, estrutura de código e domínio de interface gráfica.
 
-[🔗 Ver repositório no GitHub](https://github.com/fahlula/cubo-3d-java)
+🎲 Veja meu projeto em destaque: [Cubo 3D em Java](https://github.com/fahlula/cubo-3d-java)
 
-![cubo-3d-preview](imagens/cubo3d_zoom.gif)
+![preview](https://raw.githubusercontent.com/fahlula/cubo-3d-java/main/Imagens/cubo3d_zoom.gif)
+
 
 ## 📫 Contato
 
