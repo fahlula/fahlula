@@ -41,7 +41,7 @@ Neste projeto, trabalhei com lógica 3D, projeção em perspectiva e desenho em 
 
 [🔗 Ver repositório no GitHub](https://github.com/fahlula/cubo-3d-java)
 
-![cubo-3d-preview](https://imgur.com/a/cD6WEWi)
+![cubo-3d-preview](https://i.imgur.com/rPsay2B.png)
 
 ## 📫 Contato
 
