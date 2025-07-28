@@ -30,7 +30,6 @@ Desenvolvedora em formação, apaixonada por tecnologia, com foco em construir s
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,figma)](https://skillicons.dev/)
 
 ----------
-----------
 
 ## 🎲 Projeto em destaque: Cubo 3D em Java
 
