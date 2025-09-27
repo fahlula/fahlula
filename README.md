@@ -31,17 +31,6 @@ Desenvolvedora em formação, apaixonada por tecnologia, com foco em construir s
 
 ----------
 
-## 🎲 Projeto em destaque: Cubo 3D em Java
-
-Uma visualização interativa de um cubo 3D rotativo, feita com Java puro e Swing.  
-Neste projeto, trabalhei com lógica 3D, projeção em perspectiva e desenho em tempo real com animação.
-
-> ✨ Ideal para demonstrar raciocínio lógico, estrutura de código e domínio de interface gráfica.
-
-🎲 Veja meu projeto em destaque: [Cubo 3D em Java](https://github.com/fahlula/cubo-3d-java)
-
-![preview](https://raw.githubusercontent.com/fahlula/cubo-3d-java/main/Imagens/cubo3d_zoom.gif)
-
 
 ## 📫 Contato
 
