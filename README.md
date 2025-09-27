@@ -1,4 +1,4 @@
-<h1 align="left">😁 Olá!</h1>
+<h2 align="left">😁 Olá!</h2>
 
 ###
 
@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">Linguagens:</p>
+<h3 align="left">Linguagens:</h3>
 
 ###
 
@@ -44,7 +44,7 @@
 
 ###
 
-<p align="left">Frameworks e bibliotecas:</p>
+<h3 align="left">Frameworks e bibliotecas:</h3>
 
 ###
 
@@ -60,7 +60,7 @@
 
 ###
 
-<p align="left">Banco de Dados e DevOps:</p>
+<h3 align="left">Banco de Dados e DevOps:</h3>
 
 ###
 
@@ -80,7 +80,7 @@
 
 ###
 
-<p align="left">Ferramentas:</p>
+<h3 align="left">Ferramentas:</h3>
 
 ###
 
@@ -94,7 +94,7 @@
 
 ###
 
-<p align="left">📫 Contato</p>
+<h2 align="left">📫 Contato</h2>
 
 ###
 
