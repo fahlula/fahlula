@@ -1,35 +1,6 @@
-# 😁 Olá! Eu sou a Fabiana
+<h1 align="left">😁 Olá!</h1>
 
-Desenvolvedora em formação, apaixonada por tecnologia, com foco em construir soluções simples, funcionais e acessíveis. Busco evoluir constantemente aplicando meus estudos em projetos práticos.
-
-## 👩‍💻 Sobre mim
-
--   🎓 Estudante de Análise e Desenvolvimento de Sistemas na Anhanguera
-    
--   🧠 Interesse por desenvolvimento fullstack, especialmente com PHP, HTML e CSS
-    
--   🚀 Explorando ferramentas modernas e boas práticas de código limpo
-    
--   ✨ Curiosa por IA, automação, jogos e interfaces intuitivas
-    
-
-----------
-
-## 🌱 Tecnologias e Ferramentas
-
-**Linguagens:**  
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css)](https://skillicons.dev/)
-
-**Frameworks e bibliotecas:**  
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,express)](https://skillicons.dev/)
-
-**Banco de Dados e DevOps:**  
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,docker)](https://skillicons.dev/)
-
-**Ferramentas:**  
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,figma)](https://skillicons.dev/)
-
-----------
+###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fahlula/fahlula/output/pacman-contribution-graph-dark.svg">
@@ -39,13 +10,101 @@ Desenvolvedora em formação, apaixonada por tecnologia, com foco em construir s
 
 ###
 
-## 📫 Contato
+<p align="left">Meu nome é Fabiana desenvolvedora em formação, apaixonada por tecnologia, com foco em construir soluções simples, funcionais e acessíveis. Busco evoluir constantemente aplicando meus estudos em projetos práticos.</p>
 
-Entre em contato ou acompanhe minha jornada:
+###
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabiana-almeida-dev)  
-[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](fabiana.lula1@gmail.com)
+<h2 align="left">👩‍💻 Sobre mim</h2>
 
-----------
+###
 
-> "Codificando com paixão, projetando com propósito."
+<p align="left">🎓 Estudante de Análise e Desenvolvimento de Sistemas na Anhanguera<br><br>🧠 Interesse por desenvolvimento fullstack, especialmente com PHP, HTML e CSS<br><br>🚀 Explorando ferramentas modernas e boas práticas de código limpo<br><br>✨ Curiosa por IA, automação, jogos e interfaces intuitivas</p>
+
+###
+
+<h2 align="left">🌱 Tecnologias e Ferramentas</h2>
+
+###
+
+<p align="left">Linguagens:</p>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+</div>
+
+###
+
+<p align="left">Frameworks e bibliotecas:</p>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+</div>
+
+###
+
+<p align="left">Banco de Dados e DevOps:</p>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+</div>
+
+###
+
+<p align="left">Ferramentas:</p>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
+
+###
+
+<p align="left">📫 Contato</p>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/fabiana-almeida-dev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:fabiana.lula1@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
