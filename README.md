@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Meu nome é Fabiana desenvolvedora em formação, apaixonada por tecnologia, com foco em construir soluções simples, funcionais e acessíveis. Busco evoluir constantemente aplicando meus estudos em projetos práticos.</p>
+<p align="left">Meu nome é Fabiana, desenvolvedora em formação, apaixonada por tecnologia, com foco em construir soluções simples, funcionais e acessíveis. Busco evoluir constantemente aplicando meus estudos em projetos práticos.</p>
 
 ###
 
