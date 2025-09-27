@@ -6,7 +6,7 @@ Desenvolvedora em formação, apaixonada por tecnologia, com foco em construir s
 
 -   🎓 Estudante de Análise e Desenvolvimento de Sistemas na Anhanguera
     
--   🧠 Interesse por desenvolvimento fullstack, especialmente com React, Node.js e TypeScript
+-   🧠 Interesse por desenvolvimento fullstack, especialmente com PHP, HTML e CSS
     
 -   🚀 Explorando ferramentas modernas e boas práticas de código limpo
     
