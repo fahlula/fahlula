@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">🎓 Estudante de Análise e Desenvolvimento de Sistemas na Anhanguera<br><br>🧠 Interesse por desenvolvimento fullstack, especialmente com PHP, HTML e CSS<br><br>🚀 Explorando ferramentas modernas e boas práticas de código limpo<br><br>✨ Curiosa por IA, automação, jogos e interfaces intuitivas</p>
+<p align="left">🎓 Estudante de Análise e Desenvolvimento de Sistemas na Anhanguera<br><br>🧠 Interesse por desenvolvimento fullstack, especialmente com Javascript, PHP, HTML e CSS<br><br>🚀 Explorando ferramentas modernas e boas práticas de código limpo<br><br>✨ Curiosa por IA, automação, jogos e interfaces intuitivas</p>
 
 ###
 
