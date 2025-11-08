@@ -121,8 +121,8 @@
 ###
 
 <p align="center">
-💼 Open to opportunities / Aberta a oportunidades<br>
-⭐ Feel free to explore my repositories! / Sinta-se à vontade para explorar meus repositórios!
+💼 Aberta a oportunidades<br>
+⭐ Sinta-se à vontade para explorar meus repositórios!
 </p>
 
 <h2 align="left">📫 Contact / Contato</h2>
