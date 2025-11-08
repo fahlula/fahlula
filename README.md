@@ -18,7 +18,17 @@
 
 ###
 
-<p align="left">🎓 Estudante de Análise e Desenvolvimento de Sistemas na Anhanguera<br><br>🧠 Interesse por desenvolvimento fullstack, especialmente com Javascript, PHP, HTML e CSS<br><br>🚀 Explorando ferramentas modernas e boas práticas de código limpo<br><br>✨ Curiosa por IA, automação, jogos e interfaces intuitivas</p>
+<p align="left">
+🎓 Estudante de Análise e Desenvolvimento de Sistemas na Anhanguera<br><br>
+
+💻 Desenvolvedora fullstack com interesse em JavaScript, TypeScript, React, Node.js, PHP (Laravel) e bancos de dados SQL<br><br>
+
+🚀 Explorando ferramentas modernas e boas práticas de código limpo<br><br>
+
+✨ Curiosa por IA, automação, jogos e interfaces intuitivas<br><br>
+
+🔍 Em busca da minha primeira oportunidade profissional em TI, onde possa aplicar meus conhecimentos e crescer constantemente
+</p>
 
 ###
 
