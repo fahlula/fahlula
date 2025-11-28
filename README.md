@@ -26,7 +26,7 @@ Meu nome é Fabiana, desenvolvedora em formação apaixonada por tecnologia, com
 
 <h2 align="left">🌱 Tecnologias e Ferramentas</h2>
 
-### Linguagens:
+### Linguagens
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40"/>
   <img width="12"/>
@@ -39,7 +39,7 @@ Meu nome é Fabiana, desenvolvedora em formação apaixonada por tecnologia, com
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
 </div>
 
-### Frameworks e Bibliotecas:
+### Frameworks e Bibliotecas
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40"/>
   <img width="12"/>
@@ -50,7 +50,7 @@ Meu nome é Fabiana, desenvolvedora em formação apaixonada por tecnologia, com
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40"/>
 </div>
 
-### Banco de Dados e DevOps:
+### Banco de Dados e DevOps
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40"/>
   <img width="12"/>
@@ -65,7 +65,7 @@ Meu nome é Fabiana, desenvolvedora em formação apaixonada por tecnologia, com
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
 </div>
 
-### Ferramentas:
+### Ferramentas
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
   <img width="12"/>
@@ -83,13 +83,13 @@ Meu nome é Fabiana, desenvolvedora em formação apaixonada por tecnologia, com
 <!-- Stats -->
 <img 
   height="150"
-  src="https://github-readme-stats.vercel.app/api?username=fahlula&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
+  src="https://github-readme-stats-phi-cyan.vercel.app/api?username=fahlula&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
 />
 
-<!-- Top Langs -->
+<!-- Top Languages -->
 <img 
   height="150"
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=fahlula&layout=compact&langs_count=6&theme=dracula"
+  src="https://github-readme-stats-phi-cyan.vercel.app/api/top-langs?username=fahlula&layout=compact&theme=dracula"
 />
 
 </div>
