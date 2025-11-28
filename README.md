@@ -76,31 +76,6 @@ Meu nome é Fabiana, desenvolvedora em formação apaixonada por tecnologia, com
 
 ---
 
-<h2 align="left">📊 GitHub Stats</h2>
-
-<div align="center">
-
-<!-- Stats -->
-<img 
-  height="150"
-  src="https://github-readme-stats-phi-cyan.vercel.app/api?username=fahlula&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
-/>
-
-<!-- Top Languages -->
-<img 
-  height="150"
-  src="https://github-readme-stats-phi-cyan.vercel.app/api/top-langs?username=fahlula&layout=compact&theme=dracula"
-/>
-
-</div>
-
-<p align="center">
-💼 Aberta a oportunidades<br>
-⭐ Sinta-se à vontade para explorar meus repositórios!
-</p>
-
----
-
 <h2 align="left">📫 Contact / Contato</h2>
 
 <div align="left">
@@ -111,3 +86,10 @@ Meu nome é Fabiana, desenvolvedora em formação apaixonada por tecnologia, com
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40"/>
   </a>
 </div>
+
+---
+
+<p align="center">
+💼 Aberta a oportunidades<br>
+⭐ Sinta-se à vontade para explorar meus repositórios!
+</p>
