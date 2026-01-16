@@ -12,17 +12,6 @@ Meu nome é Fabiana, desenvolvedora em formação apaixonada por tecnologia, com
 
 ---
 
-<h2 align="left">📊 Linguagens mais utilizadas</h2>
-
-<div align="left">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahlula&layout=compact&langs_count=8&hide=markdown&theme=default"
-    alt="Linguagens mais utilizadas por fahlula"
-  />
-</div>
-
----
-
 <h2 align="left">👩‍💻 Sobre mim</h2>
 
 <p align="left">
@@ -42,6 +31,21 @@ Meu nome é Fabiana, desenvolvedora em formação apaixonada por tecnologia, com
 ✔️ Estruturas de dados básicas<br>
 ✔️ Desenvolvimento web com React e Node.js
 </p>
+
+---
+
+<h2 align="left">📊 Estatísticas e Tecnologias</h2>
+
+<div align="left">
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=fahlula&show_icons=true&theme=github_dark&hide_border=true"
+  />
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahlula&layout=compact&langs_count=8&hide=markdown&theme=github_dark&hide_border=true"
+  />
+</div>
 
 ---
 
