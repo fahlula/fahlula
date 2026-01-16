@@ -12,14 +12,35 @@ Meu nome é Fabiana, desenvolvedora em formação apaixonada por tecnologia, com
 
 ---
 
+<h2 align="left">📊 Linguagens mais utilizadas</h2>
+
+<div align="left">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahlula&layout=compact&langs_count=8&hide=markdown&theme=default"
+    alt="Linguagens mais utilizadas por fahlula"
+  />
+</div>
+
+---
+
 <h2 align="left">👩‍💻 Sobre mim</h2>
 
 <p align="left">
 🎓 Estudante de Análise e Desenvolvimento de Sistemas na Anhanguera<br><br>
-💻 Desenvolvedora fullstack com interesse em JavaScript, TypeScript, React, Node.js, PHP (Laravel) e bancos de dados SQL<br><br>
+💻 Desenvolvedora em formação com foco em JavaScript, TypeScript, React, Node.js, PHP (Laravel), bancos de dados SQL e atualmente aprendendo linguagem C<br><br>
 🚀 Explorando ferramentas modernas e boas práticas de código limpo<br><br>
 ✨ Curiosa por IA, automação, jogos e interfaces intuitivas<br><br>
-🔍 Em busca da minha primeira oportunidade profissional em TI
+🔍 Em constante desenvolvimento profissional na área de TI
+</p>
+
+---
+
+<h2 align="left">📚 Atualmente estudando</h2>
+
+<p align="left">
+✔️ Lógica de programação com C<br>
+✔️ Estruturas de dados básicas<br>
+✔️ Desenvolvimento web com React e Node.js
 </p>
 
 ---
@@ -28,6 +49,8 @@ Meu nome é Fabiana, desenvolvedora em formação apaixonada por tecnologia, com
 
 ### Linguagens
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
+  <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
