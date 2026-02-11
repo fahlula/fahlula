@@ -5,27 +5,6 @@ Aqui compartilho meus estudos, projetos práticos e minha evolução na área de
 
 ---
 
-## 📊 Estatísticas
-
-<table>
-  <tr>
-    <td>
-      <img
-        src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=fahlula&show_icons=true&theme=github_dark&hide_border=true"
-        alt="GitHub Stats"
-      />
-    </td>
-    <td>
-      <img
-        src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=fahlula&layout=compact&theme=github_dark&hide_border=true"
-        alt="Top Languages"
-      />
-    </td>
-  </tr>
-</table>
-
----
-
 ## 👩‍💻 Sobre mim
 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** (Anhanguera)
