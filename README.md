@@ -7,7 +7,7 @@ Aqui compartilho meus estudos, projetos práticos e minha evolução na área de
 
 ## 👩‍💻 Sobre mim
 
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** (Anhanguera)
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** 
 - 🚀 Interesse em boas práticas, código limpo e evolução constante
 - ✨ Curiosa por IA, automação, jogos e interfaces intuitivas
 
